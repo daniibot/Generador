@@ -1,0 +1,76 @@
+{
+    "Pelo": {
+      "Forma": ["1", "2A", "2B", "Rastas", "2C", "3A", "3B", "3C", "4A", "4B", "4C", "Pelado"],
+      "Tamaño": ["Largo", "Muy largo", "Mediano", "Corto", "Muy corto", "Extremadamente largo"],
+      "Color": [],
+      "Flequillo": ["No tiene", "Recto", "De lado", "Cortina", "Despuntado", "Largo", "Corto", "Ladeado", "Asimétrico", "Rizado", "Partido"]
+    },
+    "Piel": {
+      "Color": []
+    },
+    "Boca": {
+      "Forma": [],
+      "Tamaño": []
+    },
+    "Nariz": {
+      "Forma": []
+    },
+    "Cejas": {
+      "Forma": [],
+      "Tamaño": []
+    },
+    "Cara": {
+      "Forma": []
+    },
+    "Orejas": {
+      "Forma": []
+    },
+    "Ojos": {
+      "Forma": [],
+      "Color": []  
+    },
+    "Barba": {
+      "Forma":["No tiene"]  
+    },
+    "Piercings": {
+      "Tipo": [],
+      "Lugar": [] 
+    },
+    "Tatuajes": {
+      "Tipo": ["No tiene"],
+      "Lugar": []  
+    },
+    "Lunares": {
+      "Lugar": []  
+    },
+    "Pecas": {
+      "Lugar": []  
+    },
+    "Manchas": {
+      "Lugar": []  
+    },
+    "Cuerpo": {
+      "Tipo": [""]  
+    },
+    "Altura": [],
+    "Edad": [],
+    "Accesorios": {
+      "Tipo": ["No tiene","Cartera", "Mochila", "Auriculares", "Cascos para escuchar música", "Anteojos", "Anillos", "Collar", "Aritos", "Máscara", "Casco", "Pulsera", "Vincha", "Lazos", "Sombrero", "Bufanda", "Guantes"]  
+    },
+    "Vestimenta": {
+      "Estilo": []   
+    },
+    "Poderes": {
+      "Tipo": ["No tiene"]  
+    },
+    "Criatura": {
+      "Tipo": ["humano", ""]  
+    },
+    "Mascota": {
+      "Tipo": ["No tiene"]  
+    },
+    "Enfermedad/Trastornos/Síndromes": {
+      "Tipo": ["No tiene"]  
+    }
+  }
+  
